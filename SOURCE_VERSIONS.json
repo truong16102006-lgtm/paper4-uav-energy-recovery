@@ -1,0 +1,29 @@
+[
+  {
+    "key": "mavlink",
+    "repository": "mavlink/mavlink",
+    "commit": "bb97687c90d11beb0fcad8f921ca79cecce0453a",
+    "path": "message_definitions/v1.0/common.xml",
+    "url": "https://github.com/mavlink/mavlink/blob/bb97687c90d11beb0fcad8f921ca79cecce0453a/message_definitions/v1.0/common.xml",
+    "sha256": "cfda5c0766698cb0f4d5725cd22fb38bf74cea1ba516c98a11b7c36479dae2c6",
+    "claim_status": "MATCHES_PINNED_SOURCE"
+  },
+  {
+    "key": "ardupilot",
+    "repository": "ArduPilot/ardupilot",
+    "commit": "dce8f79944d5bdeeade4feceb7b21cc68284208f",
+    "path": "libraries/GCS_MAVLink/GCS_Common.cpp",
+    "url": "https://github.com/ArduPilot/ardupilot/blob/dce8f79944d5bdeeade4feceb7b21cc68284208f/libraries/GCS_MAVLink/GCS_Common.cpp",
+    "sha256": "345233ce691a29f21e66d50b81ce75db9672eb29e9d39ac2d0e9e139e92836ec",
+    "claim_status": "MATCHES_PINNED_SOURCE"
+  },
+  {
+    "key": "px4",
+    "repository": "PX4/PX4-Autopilot",
+    "commit": "a9a5681000e9aa509e1ed93be84e1cab33b27466",
+    "path": "src/modules/mavlink/streams/BATTERY_STATUS.hpp",
+    "url": "https://github.com/PX4/PX4-Autopilot/blob/a9a5681000e9aa509e1ed93be84e1cab33b27466/src/modules/mavlink/streams/BATTERY_STATUS.hpp",
+    "sha256": "a4ca3284ad539bdbae47665233c66b662e2ecc94784014e288c9d90e0c67970f",
+    "claim_status": "MATCHES_PINNED_SOURCE"
+  }
+]

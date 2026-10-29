@@ -1,0 +1,35 @@
+{
+  "solar_records": 161,
+  "solar_mean_reduction_percent": 29.108161978822288,
+  "solar_single_flight_block_intervals": [
+    {
+      "block_length": 4,
+      "CI95_percent": [
+        26.695185821806103,
+        30.499245322195268
+      ]
+    },
+    {
+      "block_length": 8,
+      "CI95_percent": [
+        26.3006043955165,
+        30.471852358865164
+      ]
+    },
+    {
+      "block_length": 16,
+      "CI95_percent": [
+        26.149331695852297,
+        30.577660241582844
+      ]
+    }
+  ],
+  "AMOVFLY_records": 247,
+  "AMOVFLY_selector_minus_PCHIP_clip_mean_Wh": 0.0010821460091603665,
+  "AMOVFLY_paired_date_cluster_CI95_Wh": [
+    0.0006836021172667193,
+    0.0015044206194139156
+  ],
+  "AMOVFLY_selector_comparator_is_clipped": true,
+  "no_new_independent_campaigns": true
+}

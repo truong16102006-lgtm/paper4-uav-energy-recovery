@@ -1,0 +1,118 @@
+{
+  "development_PCHIP_RMSE_Wh": 0.3532340864259209,
+  "development_midpoint_RMSE_Wh": 0.5304711977949378,
+  "external_PCHIP_RMSE_Wh": 0.6054330327830949,
+  "external_midpoint_RMSE_Wh": 0.8540236079112976,
+  "external_reduction_percent": 29.108161978822295,
+  "external_radius_Wh": 2.7301991736798126,
+  "external_raw_RMSE_Wh": 0.28254416861145276,
+  "external_primary_QP_optimized": 322,
+  "external_primary_QP_rows": 322,
+  "all_external_primary_references_in_class": true,
+  "excluded_windows": [
+    {
+      "window_id": 8,
+      "source_id": "AtlantikSolar_2015-07-14_17",
+      "left_s": 16849.0,
+      "right_s": 18649.0,
+      "duration_s": 1800.0,
+      "new_campaigns": 1,
+      "status": "REFERENCE_SUPPORT_GAP",
+      "native_nodes": null,
+      "max_reference_interval_W": null,
+      "native_energy_Wh": null
+    },
+    {
+      "window_id": 161,
+      "source_id": "AtlantikSolar_2015-07-14_17",
+      "left_s": 292249.0,
+      "right_s": 294049.0,
+      "duration_s": 1800.0,
+      "new_campaigns": 1,
+      "status": "REFERENCE_SUPPORT_GAP",
+      "native_nodes": null,
+      "max_reference_interval_W": null,
+      "native_energy_Wh": null
+    }
+  ],
+  "matched_timing": {
+    "passed": true,
+    "sources": 56,
+    "paired_repetitions": 392,
+    "repetitions_per_source": 7,
+    "selection": "median duration per source; primary B8 uniform clean h0.5; PCHIP; no error ranking",
+    "timing_scope": "fresh full envelope+constructor+recovery, single prior; alternated order; one warmup; two numerical threads; same process",
+    "clip_median_s": 0.0010992001043632627,
+    "QP_median_s": 0.006961249862797558,
+    "median_source_speedup": 6.318381772839171,
+    "minimum_source_speedup": 3.804185639352438,
+    "maximum_source_speedup": 16.00401805215374,
+    "QP_failed_checks": 0,
+    "clip_failed_checks": 0,
+    "seconds": 16.709040199872106
+  },
+  "fast_gate": {
+    "passed": true,
+    "histories": 7040,
+    "evaluations": 42240,
+    "records": 440,
+    "refusals": 0,
+    "QP_fallbacks_in_original": 162,
+    "max_primal_residual_Wh": 4.2021941482062175e-14,
+    "max_risk_residual_Wh": 2.1316282072803006e-14,
+    "median_seconds": 0.0006986999651417136,
+    "p95_seconds": 0.0009239998180419207,
+    "seconds": 78.82816560007632
+  },
+  "external_gate": {
+    "passed": true,
+    "new_independent_campaigns": 1,
+    "new_flight_collection_by_author": 0,
+    "scheduled_windows": 163,
+    "eligible_windows": 161,
+    "screening_status_counts": {
+      "ELIGIBLE": 161,
+      "REFERENCE_SUPPORT_GAP": 2
+    },
+    "reconstruction_cases": 23184,
+    "status_counts": {
+      "CHECKED_CLIPPED_MINIMAX_CENTER": 23184
+    },
+    "max_primal_residual_Wh": 5.0527483431829344e-14,
+    "max_risk_residual_Wh": 1.4210854715202004e-14,
+    "reference_cap_misspecified_cases": 960,
+    "model_fits": 0,
+    "primary_frozen_before_values": true,
+    "seconds": 49.081587800057605
+  },
+  "adapter": {
+    "passed": true,
+    "source_rows": 645435,
+    "valid_rows": 645398,
+    "invalid_rows": 37,
+    "negative_current_rows": 37,
+    "duplicate_timestamps_removed": 61377,
+    "conflicting_duplicate_timestamps": 0,
+    "unique_valid_samples": 584021,
+    "airborne_samples": 578294,
+    "minimum_time_s": 980.630197,
+    "maximum_time_s": 297054.870158,
+    "airborne_start_s": 2449,
+    "airborne_end_s": 295626,
+    "airborne_max_power_W": 377.5818252369663,
+    "airborne_min_power_W": 0.3681935968335388,
+    "airborne_gaps_over_2s": 4,
+    "fields": {
+      "POWS_t": 512,
+      "POWS_Main_Volt": 513,
+      "POWS_Main_Cur": 514
+    },
+    "new_independent_campaigns": 1,
+    "new_flight_collection_by_author": 0,
+    "physical_calibration_provided": false
+  },
+  "max_1Hz_reference_RMSE_Wh": 0.0003822884510522,
+  "max_1Hz_reference_peak_Wh": 0.0116441641385449,
+  "oneHz_native_recovery_mean_Wh": 0.6054330024345391,
+  "external_win_fraction": 1.0
+}

@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "record_id": "FAVS__FAVS__UavG_P0A20VarS8_5.csv",
+  "source_path": "FAVS/FAVS/UavG_P0A20VarS8_5.csv",
+  "selection": "nearest median duration among electrically eligible records with finite coordinates; ties by ID",
+  "cohort_median_duration_s": 594.386081695407,
+  "duration_s": 594.386081695407,
+  "source_local_displacement_m": true,
+  "axes_not_claimed_ENU_or_AGL": true,
+  "coordinate_rows": 2965,
+  "normalized_times_and_power_match_retained_adapter": true,
+  "GPS_used_as_recovery_input": false,
+  "raw_coordinates_excluded_from_shareable_repo": true
+}

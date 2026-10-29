@@ -1,0 +1,123 @@
+{
+  "primary_endpoint": "mean paired A_tube-A_envelope, pp; 10Wh B9 bounded/full",
+  "sign_follows_set_inclusion": true,
+  "resamples": 5000,
+  "seed": 20261029,
+  "analyses": [
+    {
+      "cohort": "AMOVFLY",
+      "records": 247,
+      "mean_envelope_percent": 16.09903025444342,
+      "mean_tube_percent": 24.121500143610273,
+      "mean_delta_pp": 8.022469889166851,
+      "median_delta_pp": 10.489361237160349,
+      "Q1_delta_pp": 1.5258947945330905,
+      "Q3_delta_pp": 12.529792587675542,
+      "strictly_tighter_fraction": 0.9878542510121457,
+      "ties_fraction": 0.012145748987854251,
+      "finite_brackets": 246,
+      "reference_reached": 246,
+      "interval_type": "paired date-cluster percentile; conditional retained collection",
+      "clusters": 21,
+      "bootstrap_CI95_delta_pp": [
+        7.38827853972104,
+        8.6068654996522
+      ]
+    },
+    {
+      "cohort": "AtlantikSolar",
+      "records": 161,
+      "mean_envelope_percent": 24.57747250492316,
+      "mean_tube_percent": 42.06288512084074,
+      "mean_delta_pp": 17.485412615917575,
+      "median_delta_pp": 17.36927480338698,
+      "Q1_delta_pp": 13.137556054745197,
+      "Q3_delta_pp": 20.355017225515333,
+      "strictly_tighter_fraction": 0.9813664596273292,
+      "ties_fraction": 0.018633540372670808,
+      "finite_brackets": 151,
+      "reference_reached": 151,
+      "interval_type": "moving-block single-flight variability; not population CI",
+      "block_length": 4,
+      "bootstrap_CI95_delta_pp": [
+        15.844271170563035,
+        19.44063102563624
+      ]
+    },
+    {
+      "cohort": "AtlantikSolar",
+      "records": 161,
+      "mean_envelope_percent": 24.57747250492316,
+      "mean_tube_percent": 42.06288512084074,
+      "mean_delta_pp": 17.485412615917575,
+      "median_delta_pp": 17.36927480338698,
+      "Q1_delta_pp": 13.137556054745197,
+      "Q3_delta_pp": 20.355017225515333,
+      "strictly_tighter_fraction": 0.9813664596273292,
+      "ties_fraction": 0.018633540372670808,
+      "finite_brackets": 151,
+      "reference_reached": 151,
+      "interval_type": "moving-block single-flight variability; not population CI",
+      "block_length": 8,
+      "bootstrap_CI95_delta_pp": [
+        15.568966779805349,
+        19.22095679487536
+      ]
+    },
+    {
+      "cohort": "AtlantikSolar",
+      "records": 161,
+      "mean_envelope_percent": 24.57747250492316,
+      "mean_tube_percent": 42.06288512084074,
+      "mean_delta_pp": 17.485412615917575,
+      "median_delta_pp": 17.36927480338698,
+      "Q1_delta_pp": 13.137556054745197,
+      "Q3_delta_pp": 20.355017225515333,
+      "strictly_tighter_fraction": 0.9813664596273292,
+      "ties_fraction": 0.018633540372670808,
+      "finite_brackets": 151,
+      "reference_reached": 151,
+      "interval_type": "moving-block single-flight variability; not population CI",
+      "block_length": 16,
+      "bootstrap_CI95_delta_pp": [
+        15.488023086638428,
+        18.840048970577794
+      ]
+    }
+  ],
+  "aircraft_strata": [
+    {
+      "cohort": "AMOVFLY",
+      "aircraft": "UavG",
+      "records": 72,
+      "dates": 10,
+      "mean_delta_pp": 7.345835921852649,
+      "median_delta_pp": 10.312744470321405,
+      "Q1_delta_pp": 1.1892548259765734,
+      "Q3_delta_pp": 11.727910698301875,
+      "strictly_tighter_fraction": 0.9861111111111112
+    },
+    {
+      "cohort": "AMOVFLY",
+      "aircraft": "UavR",
+      "records": 76,
+      "dates": 7,
+      "mean_delta_pp": 8.321156830990732,
+      "median_delta_pp": 11.048414660258942,
+      "Q1_delta_pp": 1.5785224909385873,
+      "Q3_delta_pp": 13.417706597348428,
+      "strictly_tighter_fraction": 1.0
+    },
+    {
+      "cohort": "AMOVFLY",
+      "aircraft": "UavY",
+      "records": 99,
+      "dates": 16,
+      "mean_delta_pp": 8.2852722938942,
+      "median_delta_pp": 10.416266430346589,
+      "Q1_delta_pp": 1.5595949247376353,
+      "Q3_delta_pp": 12.516175807534875,
+      "strictly_tighter_fraction": 0.9797979797979798
+    }
+  ]
+}

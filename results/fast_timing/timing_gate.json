@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "sources": 56,
+  "paired_repetitions": 392,
+  "repetitions_per_source": 7,
+  "selection": "median duration per source; primary B8 uniform clean h0.5; PCHIP; no error ranking",
+  "timing_scope": "fresh full envelope+constructor+recovery, single prior; alternated order; one warmup; two numerical threads; same process",
+  "clip_median_s": 0.0010992001043632627,
+  "QP_median_s": 0.006961249862797558,
+  "median_source_speedup": 6.318381772839171,
+  "minimum_source_speedup": 3.804185639352438,
+  "maximum_source_speedup": 16.00401805215374,
+  "QP_failed_checks": 0,
+  "clip_failed_checks": 0,
+  "seconds": 16.709040199872106
+}

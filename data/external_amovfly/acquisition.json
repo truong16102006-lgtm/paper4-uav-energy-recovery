@@ -1,0 +1,17 @@
+{
+  "repository": "https://github.com/YujiaoHu/AMOVFLY-Dataset",
+  "commit": "67069ed00ddbebd62b71aa9bb1272415e9b15ff8",
+  "archive": "https://codeload.github.com/YujiaoHu/AMOVFLY-Dataset/zip/67069ed00ddbebd62b71aa9bb1272415e9b15ff8",
+  "archive_bytes": 221154231,
+  "archive_sha256": "f30269ff1b622044ab72a9e31e1e51eb5720220364ff9fd8094b54b938ecc580",
+  "ready_candidates": 277,
+  "ready_bytes": 286060728,
+  "all_Git_blob_hashes_verified": true,
+  "schema_validation_records": {
+    "UavG": "FAVS/FAVS/UavG_P0A10VarS2_1.csv",
+    "UavR": "FAVS/FAVS/UavR_P0A10VarS8_1.csv",
+    "UavY": "FAFS/FAFS/UavY_P0A10S2_1.csv"
+  },
+  "electrical_values_decoded": false,
+  "rights": "No explicit repository license observed in metadata; retain attribution, do not publicly rehost or relicense raw files."
+}

@@ -1,0 +1,78 @@
+{
+  "passed": true,
+  "records": 408,
+  "AMOVFLY_records": 247,
+  "solar_windows": 161,
+  "solar_flights": 1,
+  "analysis_status": "exploratory reused data",
+  "prior_ablation_curves": 1224,
+  "direct_LP_solves": 4080,
+  "burst_reconstructions": 6120,
+  "bootstrap_resamples": 5000,
+  "new_model_fits": 0,
+  "new_flights": 0,
+  "seconds": 19.44807220000075,
+  "original_result_files_modified": false,
+  "outputs": [
+    {
+      "path": "results/concise_20261029/aircraft_statistics.csv",
+      "sha256": "0b6665c62873d49d0f6f5b26955b0b63b58d2d8bd13ac6dd99bf7d5984266e98"
+    },
+    {
+      "path": "results/concise_20261029/baseline_cases.csv",
+      "sha256": "dc8199f9e0ced168ba720f375b6363d5fe0d70d64e75d92346801e4d8d196574"
+    },
+    {
+      "path": "results/concise_20261029/burst_cases.csv",
+      "sha256": "87a1af46f35639fd740b9027d43abbd1d6afa5c6d8aa9fbf02de66a96c792a62"
+    },
+    {
+      "path": "results/concise_20261029/burst_record_means.csv",
+      "sha256": "5a9f1b99cd3c6dd69c47491542e3369facc6b418fff4a49f5795cedad99f2351"
+    },
+    {
+      "path": "results/concise_20261029/direct_LP_checks.csv",
+      "sha256": "ca4d8bf7137b58286321801b6c073265572928bf77265b8083b71edcb10ed12f"
+    },
+    {
+      "path": "results/concise_20261029/direct_LP_gate.json",
+      "sha256": "737ef835259e836b9a8eb3321b7a4b6cda0e127c488244918086ff29027c6146"
+    },
+    {
+      "path": "results/concise_20261029/legacy_uncertainty.json",
+      "sha256": "c5d3c3fd20a3bbc4e619952e76f4d645e56e6af0540ee2bda4d0aad25060129c"
+    },
+    {
+      "path": "results/concise_20261029/primary_records.csv",
+      "sha256": "15c514aa84ccfdf1fefc781d73761326b308a4de4e7fc535f40e30fd8b3441c7"
+    },
+    {
+      "path": "results/concise_20261029/primary_statistics.json",
+      "sha256": "812836d5783fa8309c7ac8dc932b7776e22dd7b424d6fd339ded7a502e1ee9fd"
+    },
+    {
+      "path": "results/concise_20261029/prior_ablation.csv",
+      "sha256": "19c1f731f6693827bf4fd7572af2dc6c4453f2d4f5ef8249c2442974fc917253"
+    },
+    {
+      "path": "results/concise_20261029/sensor_cases.csv",
+      "sha256": "9b175300605bce9a8bef856446c311a02b43b27b550f326f57e652ccf8250887"
+    },
+    {
+      "path": "results/concise_20261029/sensor_range_ledger.csv",
+      "sha256": "c86226ae7ada15a3b2e48fa2ffb6d678bba1d169b86e0094a8c6aa74f0c502cf"
+    },
+    {
+      "path": "results/concise_20261029/sensor_specification.json",
+      "sha256": "db6d4d44b0ea506ba152a2fc18eab8505eef28ca681314a725cdace844318ccd"
+    },
+    {
+      "path": "results/concise_20261029/spatial_example_private.npz",
+      "sha256": "65901f92355b07352f458bda446b818c65bb068cb15bc408b948c2570c4638c2"
+    },
+    {
+      "path": "results/concise_20261029/spatial_gate.json",
+      "sha256": "cd62a135f0d96fd916a74c20e2f6903cb5e5b05d753e93903d0d51ed679a7e48"
+    }
+  ]
+}

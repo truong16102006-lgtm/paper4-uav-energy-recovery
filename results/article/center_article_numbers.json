@@ -1,0 +1,56 @@
+{
+  "primary": {
+    "estimate": 0.04841698005641785,
+    "low": 0.023730456781965895,
+    "high": 0.07964649609457702,
+    "sources": 56
+  },
+  "midpoint_RMSE": 0.5304711977949378,
+  "HGB_RMSE": 0.40168747001840344,
+  "PCHIP_RMSE": 0.35327048996198557,
+  "percent_reduction_vs_midpoint": 24.277232828448074,
+  "percent_reduction_vs_PCHIP": -13.705356499386031,
+  "platforms": [
+    {
+      "HGB": 0.35897700613989403,
+      "Linear": 0.38190943910476793,
+      "PCHIP": 0.3519007934135148,
+      "platform": "cmu_quadrotor",
+      "midpoint": 0.5512368114602438,
+      "sources": 18,
+      "records": 209
+    },
+    {
+      "HGB": 0.32235421273417486,
+      "Linear": 0.2875584713119514,
+      "PCHIP": 0.28300195728494687,
+      "platform": "pixhawk",
+      "midpoint": 0.3935775245695237,
+      "sources": 14,
+      "records": 120
+    },
+    {
+      "HGB": 0.5237311911811414,
+      "Linear": 0.4276878111141851,
+      "PCHIP": 0.424908719187495,
+      "platform": "speedy",
+      "midpoint": 0.6465992573550458,
+      "sources": 24,
+      "records": 111
+    }
+  ],
+  "execution": {
+    "passed": true,
+    "all_registered_cases_retained": true,
+    "records": 440,
+    "curve_histories": 7040,
+    "QP_evaluations": 42240,
+    "optimized": 42078,
+    "fallbacks": 162,
+    "max_primal_residual_Wh": 9.993361729894602e-09,
+    "max_risk_residual_Wh": 9.973977643795706e-09,
+    "median_seconds": 0.0019968500128015876,
+    "p95_seconds": 0.033565684943459906,
+    "seconds": 382.4588134000078
+  }
+}

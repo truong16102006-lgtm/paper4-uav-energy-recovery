@@ -1,0 +1,37 @@
+{
+  "status": "exploratory reused data; approved outline",
+  "files": [
+    {
+      "path": "PROTOCOL_CONCISE_20261029.md",
+      "sha256": "5b7f00f139b97a452eb50899abddb31c485273c40344bf06defe34dcae094e78"
+    },
+    {
+      "path": "code/concise_extension.py",
+      "sha256": "fa3cea72c1879059559e33eb19b76b5c7f63711c12fcdab0c3a3bd0be3112ac9"
+    },
+    {
+      "path": "code/telemetry_decision_replay.py",
+      "sha256": "1915cdfe0db2dbe092496db32729c8395a98f01b4fadbf118eb57151c42bbcd6"
+    },
+    {
+      "path": "code/fast_center.py",
+      "sha256": "472ad210d2d2faf1947d754deb590a28b61d9f6a3008a4e7c89eee475c31b298"
+    },
+    {
+      "path": "code/threshold_audit.py",
+      "sha256": "b175649891302b30a1e3faa98e67ffa3c80670bdc5ef93f970650c85b8f88511"
+    },
+    {
+      "path": "code/calibration_enclosure.py",
+      "sha256": "ed77e6ec93d96186f3346004c6a7fa036366594daac4544b42029e1f0e887d44"
+    },
+    {
+      "path": "code/calibration_spec.py",
+      "sha256": "17149652df5df5485111592018ec56f25c7baf263964b7881df985f293f401d8"
+    },
+    {
+      "path": "results/telemetry_decisions/cases.csv",
+      "sha256": "abbcca61591ec6937d2f097381ff42417b354b2c04b90370f124f4f34c2a3b04"
+    }
+  ]
+}

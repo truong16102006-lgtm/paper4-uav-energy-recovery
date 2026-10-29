@@ -1,0 +1,65 @@
+{
+  "description": "Analytic API example, not a flight or calibrated sensor model",
+  "nominal_times_s": [
+    0,
+    10,
+    20,
+    30,
+    40
+  ],
+  "time_lower_s": [
+    0,
+    9.8,
+    19.8,
+    29.8,
+    40
+  ],
+  "time_upper_s": [
+    0,
+    10.2,
+    20.2,
+    30.2,
+    40
+  ],
+  "counter_Wh": [
+    100,
+    100.5,
+    101.2,
+    101.8,
+    102.3
+  ],
+  "grid_times_s": [
+    0,
+    2.5,
+    5,
+    7.5,
+    10,
+    12.5,
+    15,
+    17.5,
+    20,
+    22.5,
+    25,
+    27.5,
+    30,
+    32.5,
+    35,
+    37.5,
+    40
+  ],
+  "cap_W": 2000,
+  "epsilon_Wh": 0.02,
+  "risk_factor": 1,
+  "energy_thresholds_Wh": [
+    0.5,
+    2.0,
+    5.0
+  ],
+  "audit_times_s": [
+    0,
+    10,
+    20,
+    30,
+    40
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "transcripts": 408,
+  "solves": 4080,
+  "maximum_difference_Wh": 1.4210854715202004e-13,
+  "feasible_class": "same uncertain-time rectangular class with fixed increment origin"
+}

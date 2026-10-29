@@ -1,0 +1,22 @@
+{
+  "doi": "10.3929/ethz-c-000787517",
+  "item": "181cf3ad-076c-4de7-8f49-cdb04c107ff6",
+  "source": "https://www.research-collection.ethz.ch/server/api/core/bitstreams/3130e4a2-3585-47d0-9aef-31facefdaed6/content",
+  "bytes": 307826404,
+  "MD5": "4ab70099f63d501bec729128157f146f",
+  "SHA256": "40fec4c68670550fc779eaa5771581a27113ebaf76e1f3a75ef0c060734d3190",
+  "license": "In Copyright - Non-Commercial Use Permitted; preserve original repository rights and do not rehost publicly",
+  "members": [
+    {
+      "name": "readme.txt",
+      "bytes": 164,
+      "CRC32": "302e68fd"
+    },
+    {
+      "name": "sysvector.mat",
+      "bytes": 1371478913,
+      "CRC32": "84454e22"
+    }
+  ],
+  "telemetry_parsed": false
+}

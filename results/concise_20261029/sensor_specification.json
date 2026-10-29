@@ -1,0 +1,30 @@
+{
+  "module": "TI INA260EVM",
+  "datasheet": "SBOS656C, December 2016, Table 7.5, 25 C, 3.3 V",
+  "module_range_source": "https://www.ti.com/tool/INA260EVM",
+  "datasheet_url": "https://www.ti.com/lit/ds/symlink/ina260.pdf",
+  "module_current_limit_A": 10,
+  "components": {
+    "voltage_relative_error": 0.001,
+    "current_relative_error": 0.0015,
+    "voltage_bias_V": 0.00875,
+    "current_bias_A": 0.00985,
+    "true_voltage_upper_V": 36.0,
+    "true_current_upper_A": 10.0
+  },
+  "derived": {
+    "relative_power_gain_bound": 0.0025015000000000003,
+    "additive_power_bias_bound_W": 0.4426720374999999,
+    "assumptions": "Paired synchronous nonnegative true voltage/current within supplied upper limits; affine bounded component errors",
+    "physically_validated_by_this_code": false
+  },
+  "cap_W": 360,
+  "epsilon_Wh": 0.027777777777777776,
+  "halfwidth_s": 0.5,
+  "clock_bound_is_separately_supplied": true,
+  "synchronous_paired_component_abstraction": true,
+  "eligible_solar_windows": 140,
+  "screened_solar_windows": 161,
+  "physical_calibration_established": false,
+  "actual_INA260_hardware_used": false
+}
