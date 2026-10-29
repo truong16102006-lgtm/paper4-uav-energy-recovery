@@ -2,7 +2,7 @@
 
 Research artifact for **Minimax-Preserving UAV Energy Recovery under Sparse Queries and Bounded Measurement Drift**.
 
-This repository supplies the bounded-counter receiver, aggregate results and source-data acquisition/preparation adapters. The versioned release is `v2026.10.29`. A Zenodo DOI has not been assigned; use the actual GitHub release URL when citing this artifact. Publication here does not imply journal acceptance.
+This repository supplies the bounded-counter receiver, aggregate results and source-data acquisition/preparation adapters. The versioned release is `v2026.10.29.1`. A Zenodo DOI has not been assigned; use the actual GitHub release URL when citing this artifact. Publication here does not imply journal acceptance.
 
 ## Run without flight data
 

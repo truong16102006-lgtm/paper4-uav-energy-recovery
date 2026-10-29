@@ -1,6 +1,11 @@
 {
   "files": [
     {
+      "path": ".gitattributes",
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+      "bytes": 8
+    },
+    {
       "path": ".gitignore",
       "sha256": "b61ce261794eb67937b5d4e2326d2c7e527663d89c49fc306603e61157938014",
       "bytes": 137
@@ -17,8 +22,8 @@
     },
     {
       "path": "CITATION.cff",
-      "sha256": "b074add645c9a3bf5f5f49e598173cae1160884bdd6b4cdc06fc4495137f4a31",
-      "bytes": 858
+      "sha256": "08dd1411e00c30ee143d1f7cdb92393c6421d1a0d61dc8a976cff549b31384db",
+      "bytes": 862
     },
     {
       "path": "code/amovfly_adapter.py",
@@ -287,8 +292,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "51f44d729241caadea37cf4df01743adfe1a6b876993a8ea38773514e48e91e0",
-      "bytes": 4252
+      "sha256": "b9c567baddc08da25d9ac359ac319753455c6719738ad47e34d8bff6ae7a66c1",
+      "bytes": 4254
     },
     {
       "path": "requirements.txt",
