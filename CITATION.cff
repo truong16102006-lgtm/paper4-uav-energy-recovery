@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Cite this versioned code and aggregate-results artifact; no article acceptance is implied."
 title: "Minimax-Preserving UAV Energy Recovery under Sparse Queries and Bounded Measurement Drift"
 type: software
-version: "2026.10.29.1"
+version: "2026.10.30"
 authors:
   - family-names: "Phan"
     given-names: "Tan Nhat Truong"
@@ -13,5 +13,8 @@ authors:
   - family-names: "Hoang"
     given-names: "Duc Tai"
 repository-code: "https://github.com/truong16102006-lgtm/paper4-uav-energy-recovery"
-url: "https://github.com/truong16102006-lgtm/paper4-uav-energy-recovery/releases/tag/v2026.10.29.1"
-date-released: "2026-10-29"
+url: "https://github.com/truong16102006-lgtm/paper4-uav-energy-recovery/releases/tag/v2026.10.30"
+date-released: "2026-10-30"
+license:
+  - MIT
+  - CC-BY-4.0

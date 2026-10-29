@@ -11,6 +11,11 @@
       "bytes": 137
     },
     {
+      "path": ".zenodo.json",
+      "sha256": "5a509ea2319d9b4a48cc9ab16c102443a1ebf4c7a78ef8017419d08ebfd34db1",
+      "bytes": 2028
+    },
+    {
       "path": "audit/concise_amendments.json",
       "sha256": "2339c6423cbfde0d08b21cf140c10dfd3e0ee317e8ab91ca4e31841e78a00e0b",
       "bytes": 295
@@ -22,8 +27,8 @@
     },
     {
       "path": "CITATION.cff",
-      "sha256": "08dd1411e00c30ee143d1f7cdb92393c6421d1a0d61dc8a976cff549b31384db",
-      "bytes": 862
+      "sha256": "8f324a48f7b8676f63f0d9c872310e5b9e54a20daee22f5caadbcbe9a99e2bc6",
+      "bytes": 892
     },
     {
       "path": "code/amovfly_adapter.py",
@@ -286,14 +291,29 @@
       "bytes": 780
     },
     {
+      "path": "LICENSE",
+      "sha256": "fa27c0dd6fe3cd944f5306936a6e3e89dc2188bc258acc5ecec7cd2e56939ab1",
+      "bytes": 1126
+    },
+    {
+      "path": "licenses/CC-BY-4.0.txt",
+      "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+      "bytes": 18657
+    },
+    {
+      "path": "LICENSING.md",
+      "sha256": "622f4e9fc7951a545f171e8b5df5a1f767aca428c3e4ba26837c0d608e5362c8",
+      "bytes": 1420
+    },
+    {
       "path": "PROTOCOL_CONCISE_20261029.md",
       "sha256": "5b7f00f139b97a452eb50899abddb31c485273c40344bf06defe34dcae094e78",
       "bytes": 6434
     },
     {
       "path": "README.md",
-      "sha256": "b9c567baddc08da25d9ac359ac319753455c6719738ad47e34d8bff6ae7a66c1",
-      "bytes": 4254
+      "sha256": "2c76b582f72b12537678961cd4cb756335b2cfd093753c56e20e67e7cea6002e",
+      "bytes": 4277
     },
     {
       "path": "requirements.txt",

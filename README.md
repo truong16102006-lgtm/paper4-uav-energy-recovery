@@ -2,7 +2,7 @@
 
 Research artifact for **Minimax-Preserving UAV Energy Recovery under Sparse Queries and Bounded Measurement Drift**.
 
-This repository supplies the bounded-counter receiver, aggregate results and source-data acquisition/preparation adapters. The versioned release is `v2026.10.29.1`. A Zenodo DOI has not been assigned; use the actual GitHub release URL when citing this artifact. Publication here does not imply journal acceptance.
+This repository supplies the bounded-counter receiver, aggregate results and source-data acquisition/preparation adapters. The versioned release is `v2026.10.30`. Code is licensed under MIT; aggregate evaluation results are licensed under CC BY 4.0. `LICENSING.md` specifies the file scopes. Publication here does not imply journal acceptance.
 
 ## Run without flight data
 
@@ -46,4 +46,4 @@ The sparse counters, drift and erasures are constructed from flight-log referenc
 
 The historical HGB fit cannot be reconstructed fully from raw data because its original 11-column feature schema lacks a complete upstream adapter. Its code and scalar negative-control results are supplied; no raw-to-feature reproducibility claim is made. See manuscript Appendix E.
 
-AMOVFLY has no explicit license in the pinned repository, so its waveform and trajectory files are not redistributed. AtlantikSolar retains its original noncommercial conditions. No new license for third-party data or dependencies is granted by this repository. The authors' code is supplied for inspection without assigning an additional license in this release.
+AMOVFLY has no explicit license in the pinned repository, so its waveform and trajectory files are not redistributed. AtlantikSolar retains its original noncommercial conditions. No new license for third-party data or dependencies is granted by this repository. See `LICENSING.md` and the supplied license texts for the authors' code and aggregate results.

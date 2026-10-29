@@ -1,0 +1,38 @@
+{
+  "title": "Minimax-Preserving UAV Energy Recovery under Sparse Queries and Bounded Measurement Drift: Code and Aggregate Results",
+  "upload_type": "software",
+  "publication_date": "2026-10-30",
+  "version": "2026.10.30",
+  "creators": [
+    {
+      "name": "Phan, Tan Nhat Truong",
+      "affiliation": "FPT University, Ho Chi Minh City, Vietnam"
+    },
+    {
+      "name": "Le, Thu",
+      "affiliation": "FPT University; Faculty of Information Technology, University of Science, Ho Chi Minh City, Vietnam; Vietnam National University, Ho Chi Minh City, Vietnam"
+    },
+    {
+      "name": "Hoang, Duc Tai",
+      "affiliation": "FPT University, Ho Chi Minh City, Vietnam"
+    }
+  ],
+  "access_right": "open",
+  "description": "<p>Receiver code, scalar evaluation results and acquisition/preparation adapters for sparse UAV consumed-energy recovery. Evaluation reuses 247 AMOVFLY records and 161 windows of one AtlantikSolar flight. Original dense flight data, trajectories, feature arrays and checkpoints are excluded.</p><p>The sparse counters, measurement drift and erasures are imposed replay mechanisms. No hardware or SITL validation is claimed. The historical HGB raw-to-feature adapter is incomplete. The verified electrical replay and aggregate checks remain separate from that retained negative control.</p><p>Licensing by file scope: the authors' software is MIT licensed; scalar evaluation results and documentation are CC BY 4.0. This mixed-license bundle is described by LICENSING.md and includes both license texts. No rights in third-party flight data or dependencies are granted.</p>",
+  "keywords": [
+    "UAV",
+    "energy telemetry",
+    "optimal recovery",
+    "set-membership estimation",
+    "sparse measurements",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/truong16102006-lgtm/paper4-uav-energy-recovery",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "license": "other-open"
+}
